@@ -1,0 +1,48 @@
+#famousWalrus {
+  cursor: crosshair;
+  color: #0088cc;
+}
+#fancyWalrus {
+  cursor: crosshair;
+  color: #0088cc;
+}
+#famousWalrus:hover {
+  text-decoration: underline;
+}
+#fancyWalrus:hover {
+  text-decoration: underline;
+}
+.darkTheme {
+  background-color: slategray;
+  color: white;
+}
+.lightTheme {
+  background-color: tan;
+  color: darkred;
+}
+.originalTheme {
+  background-color: white;
+  color: black;
+}
+.btn-dark {
+  color: white;
+  background-color:slategray;
+  border-color:tan;
+}
+.btn-light {
+  color: darkred;
+  background-color:tan;
+  border-color: slategray;
+}
+.btn-original {
+  color:black;
+  background-color: white;
+  border-color: black;
+}
+img {
+  border-radius: 50%;
+}
+.highlighter {
+  border-color: cyan;
+  color: yellow;
+}
